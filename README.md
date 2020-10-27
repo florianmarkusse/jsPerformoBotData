@@ -19,3 +19,5 @@ To collect the repositores that were used to test the bot on, GitHub's GRaphQL A
   }
 }
 ```
+
+It is only possible to get the first 100 JavaScript projects this way, to increase the number of repositories to test on, the cursor of each project is also pulled to be able to add another parameter to the query *after: $CURSOR$*, which then collects the first 100 JavaScript projects after that cursor.
