@@ -14,7 +14,7 @@
 | strapi                     | 1                     | 1          |
 | uni-app                    | 1                     | 1          |
 | sequelize                  | 1                     | 1          |
-| **12                         | 32                    | 16 **        |
+| **12**                         | **32**                    | **16**        |
 
 # Results per performance bug type
 
@@ -43,7 +43,7 @@
 | pdf.js                     | 2                     | 1          | Purposefully      |
 | mpvue                      | 2                     | 1          | Generated   files |
 | amphtml                    | 2                     | 1          | Purposefully      |
-|                            | **23                    | 6**          |                   |
+|                            | **23**                    | **6**          |                   |
 
 # Pull Requests sent
 
