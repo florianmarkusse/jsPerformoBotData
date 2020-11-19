@@ -1,5 +1,5 @@
 # jsPerformoBotData
-Projects and Scripts to gather the data for testing jsPerformoBot
+Scripts to gather the data for testing jsPerformoBot and results from the testing.
 
 To collect the repositores that were used to test the bot on, GitHub's GRaphQL API Explorer was used (https://developer.github.com/v4/explorer/). The following query was executed on the API:
 ```
